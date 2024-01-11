@@ -2,7 +2,7 @@
   "name": "y",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/cynthiadaubert/vercel-public-directory.git",
+  "repository": "https://github.com/cynthiadaubert/vercel-tarea.git",
   "author": "cynthiadaubert <cynthiaperezdaubert@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,7 @@
     "start": "next"
   },
   "dependencies": {
+    "micro-method-router": "^0.1.0",
     "next": "^14.0.4",
     "node": "18.17.0",
     "react": "^18.2.0",
